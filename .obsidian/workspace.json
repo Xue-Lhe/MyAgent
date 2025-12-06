@@ -16,8 +16,21 @@
               "icon": "lucide-git-fork",
               "title": "关系图谱"
             }
+          },
+          {
+            "id": "a44fca3ed89cf485",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.10.6"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -177,7 +190,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7dcde9a48cc29585",
+  "active": "a44fca3ed89cf485",
   "lastOpenFiles": [
     "新建 文本文档.txt"
   ]
