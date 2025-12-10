@@ -42,7 +42,7 @@
               "type": "markdown",
               "state": {
                 "file": "Create Init Code/CheckBox.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,13 +184,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Create Init Code/CheckBox.md",
+                "file": "Create Init Code/Markdown 语法.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "CheckBox 的大纲"
+              "title": "Markdown 语法 的大纲"
             }
           },
           {
@@ -223,9 +223,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "13b20c627e9a05ff",
+  "active": "bb6522d47a96a290",
   "lastOpenFiles": [
     "Create Init Code/CheckBox.md",
+    "Create Init Code/初始化 obsidian.md",
     "Create Init Code/Markdown 语法.md",
     "2025-12-10.md",
     "Create Init Code/Yaml 文件教程.md",
@@ -253,7 +254,6 @@
     "Agent 大纲/06-学习资源与实战项目/实战项目建议/持续学习路径建议.md",
     "Agent 大纲/06-学习资源与实战项目/实战项目建议/社区资源与交流平台.md",
     "Agent 大纲/06-学习资源与实战项目/实战项目建议/Agent 开发工具与框架.md",
-    "Agent 大纲/06-学习资源与实战项目/实战项目建议/开源项目贡献指南.md",
     "Agent 大纲/03-ReAct与RAG/RAG 技术",
     "Agent 大纲/06-学习资源与实战项目/实战项目建议",
     "Agent 大纲/06-学习资源与实战项目/官方指南與课程",
