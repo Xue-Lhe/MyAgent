@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Create Init Code/初始化 obsidian.md",
+                "file": "Agent 大纲/Agent 工程.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "初始化 obsidian"
+              "title": "Agent 工程"
             }
           }
         ]
@@ -183,12 +183,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a44fca3ed89cf485",
+  "active": "ad4ae052886fadff",
   "lastOpenFiles": [
+    "未命名.md",
+    "Agent 大纲/Agent 工程.md",
+    "Create Init Code/初始化 obsidian.md",
+    "Agent 大纲",
     "Create Init Code/assets/初始化 obsidian/file-20251206220809580.png",
     "Create Init Code/assets/初始化 obsidian",
     "Create Init Code/assets",
-    "Create Init Code/初始化 obsidian.md",
     "Create Init Code",
     "新建 文本文档.txt"
   ]
