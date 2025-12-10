@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6b5c4c125449a3e6",
+        "id": "f0327b58db23f01e",
         "type": "tabs",
         "children": [
           {
-            "id": "6396c89bb67eb8ae",
+            "id": "a9a4639a549c94f0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Agent 大纲/01-核心概念/什么是 AI Agent/Agent 的定义.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Agent 的定义"
+              "title": "新标签页"
             }
           }
         ]
@@ -183,8 +179,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6396c89bb67eb8ae",
+  "active": "a9a4639a549c94f0",
   "lastOpenFiles": [
+    "Create Init Code/Yaml 文件教程.md",
+    "Create Init Code/Markdown 语法.md",
+    "Agent 大纲/01-核心概念/什么是 AI Agent/Agent 的定义.md",
     "Agent 大纲/01-核心概念/什么是 AI Agent/什么是 AI Agent MOC.md",
     "Agent 大纲/Agent 学习总览.md",
     "Agent 大纲/03-ReAct与RAG/ReAct 范式/思考 行动 观察 循环.md",
@@ -208,9 +207,6 @@
     "Agent 大纲/06-学习资源与实战项目/实战项目建议/领域特定 Agent 开发.md",
     "Agent 大纲/06-学习资源与实战项目/实战项目建议/多 Agent 协作系统.md",
     "Agent 大纲/06-学习资源与实战项目/实战项目建议/RAG 系统搭建.md",
-    "Agent 大纲/06-学习资源与实战项目/实战项目建议/ReAct 实现项目.md",
-    "Agent 大纲/06-学习资源与实战项目/实战项目建议/从零构建简单 Agent.md",
-    "Agent 大纲/06-学习资源与实战项目/重要论文与文献/RAG 技术综述.md",
     "Agent 大纲/03-ReAct与RAG/RAG 技术",
     "Agent 大纲/06-学习资源与实战项目/实战项目建议",
     "Agent 大纲/06-学习资源与实战项目/官方指南與课程",
