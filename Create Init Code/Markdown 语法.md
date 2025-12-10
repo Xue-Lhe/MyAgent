@@ -242,15 +242,16 @@ ___粗斜体___
 
 ## 表格
 
-| 名字   | 姓氏    | 电子邮件                   |
+| 名字     | 姓氏      | 电子邮件                       |
 | ------ | ------- | -------------------------- |
 | John   | Doe     | john.doe@example.com       |
 | Muffin | Poppies | muffin.poppies@example.com |
 | Jane   | Doe     | jane.doe@example.com       |
+|        |         |                            |
 
 | 左对齐 | 居中对齐 | 右对齐 |
-| :----- | :------: | -----: |
-| AAA    |   BBB    |    CCC |
+| :-- | :--: | --: |
+| AAA | BBB  | CCC |
 
 ---
 
@@ -356,3 +357,4 @@ $z$ = 物体表面以上的距离。
 
 > [!warning]- 警示引用块
 > 这是一个警示引用块...
+
