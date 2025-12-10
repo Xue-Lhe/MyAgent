@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f0327b58db23f01e",
+        "id": "f2bad3cf026aa6ae",
         "type": "tabs",
         "children": [
           {
-            "id": "a9a4639a549c94f0",
+            "id": "265145982633c814",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -155,16 +155,27 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Agent 大纲/01-核心概念/什么是 AI Agent/Agent 的定义.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "Agent 的定义 的大纲"
+            }
+          },
+          {
+            "id": "9c565c8ce929c196",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -183,13 +194,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a9a4639a549c94f0",
+  "active": "265145982633c814",
   "lastOpenFiles": [
-    "Create Init Code/Markdown 语法.md",
-    "Agent 大纲/01-核心概念/什么是 AI Agent/Agent 的定义.md",
-    "Create Init Code/Yaml 文件教程.md",
     "Agent 大纲/01-核心概念/什么是 AI Agent/什么是 AI Agent MOC.md",
     "Agent 大纲/Agent 学习总览.md",
+    "Agent 大纲/05-企业级编排与部署/生产部署最佳实践/生产部署最佳实践 MOC.md",
+    "未命名 1.base",
+    "未命名.base",
+    "Agent 大纲/01-核心概念/什么是 AI Agent/Agent 的定义.md",
+    "Create Init Code/Markdown 语法.md",
+    "Create Init Code/Yaml 文件教程.md",
     "Agent 大纲/03-ReAct与RAG/ReAct 范式/思考 行动 观察 循环.md",
     "Agent 大纲/03-ReAct与RAG/ReAct 范式/ReAct 范式 MOC.md",
     "Agent 大纲/05-企业级编排与部署/领域应用案例/客户服务与支持.md",
@@ -210,7 +224,6 @@
     "Agent 大纲/06-学习资源与实战项目/实战项目建议/Agent 性能评估框架.md",
     "Agent 大纲/06-学习资源与实战项目/实战项目建议/领域特定 Agent 开发.md",
     "Agent 大纲/06-学习资源与实战项目/实战项目建议/多 Agent 协作系统.md",
-    "Agent 大纲/06-学习资源与实战项目/实战项目建议/RAG 系统搭建.md",
     "Agent 大纲/03-ReAct与RAG/RAG 技术",
     "Agent 大纲/06-学习资源与实战项目/实战项目建议",
     "Agent 大纲/06-学习资源与实战项目/官方指南與课程",
@@ -219,8 +232,6 @@
     "Agent 大纲/05-企业级编排与部署/生产部署最佳实践",
     "Agent 大纲/05-企业级编排与部署/多 Agent 编排模式",
     "Agent 大纲/04-规划与自我完善/反思與学习机制",
-    "Agent 大纲/04-规划与自我完善/规划技术",
-    "Agent 大纲/03-ReAct与RAG/RAG 基础与高级策略",
     "Create Init Code/assets/初始化 obsidian/file-20251206220809580.png"
   ]
 }
