@@ -1,6 +1,9 @@
 {
   "nativeMenus": false,
   "baseFontSizeAction": true,
-  "cssTheme": "",
-  "theme": "obsidian"
+  "cssTheme": "AnuPpuccin",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "extended-colorschemes"
+  ]
 }
