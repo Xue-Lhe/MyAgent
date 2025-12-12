@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Create Init Code/Markdown 语法.md",
+                "file": "Create Init Code/CheckBox.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Markdown 语法"
+              "title": "CheckBox"
             }
           },
           {
@@ -184,13 +184,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Create Init Code/Markdown 语法.md",
+                "file": "Create Init Code/CheckBox.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Markdown 语法 的大纲"
+              "title": "CheckBox 的大纲"
             }
           },
           {
@@ -225,8 +225,8 @@
   },
   "active": "bb6522d47a96a290",
   "lastOpenFiles": [
-    "Create Init Code/CheckBox.md",
     "Create Init Code/初始化 obsidian.md",
+    "Create Init Code/CheckBox.md",
     "Create Init Code/Markdown 语法.md",
     "2025-12-10.md",
     "Create Init Code/Yaml 文件教程.md",
