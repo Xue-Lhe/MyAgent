@@ -11,10 +11,14 @@
             "id": "1b4ca4e586f594be",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "AI 大模型/大模型的演变.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "大模型的演变"
             }
           }
         ]
@@ -190,13 +194,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ad4ae052886fadff",
+  "active": "1b4ca4e586f594be",
   "lastOpenFiles": [
+    "2025-12-10.md",
+    "AI 大模型/大模型的演变.md",
+    "未命名.md",
+    "Create Init Code/CheckBox.md",
     "AI 大模型",
     "Create Init Code/初始化 obsidian.md",
-    "Create Init Code/CheckBox.md",
     "Create Init Code/Markdown 语法.md",
-    "2025-12-10.md",
     "Create Init Code/Yaml 文件教程.md",
     "Agent 大纲/05-企业级编排与部署/多 Agent 编排模式/多 Agent 协作模式.md",
     "未命名.base",
@@ -220,7 +226,6 @@
     "Agent 大纲/06-学习资源与实战项目/实战项目建议/技术博客与专栏推荐.md",
     "Agent 大纲/06-学习资源与实战项目/实战项目建议/项目实战案例分享.md",
     "Agent 大纲/06-学习资源与实战项目/实战项目建议/持续学习路径建议.md",
-    "Agent 大纲/06-学习资源与实战项目/实战项目建议/社区资源与交流平台.md",
     "Agent 大纲/03-ReAct与RAG/RAG 技术",
     "Agent 大纲/06-学习资源与实战项目/实战项目建议",
     "Agent 大纲/06-学习资源与实战项目/官方指南與课程",
@@ -228,7 +233,6 @@
     "Agent 大纲/05-企业级编排与部署/领域应用案例",
     "Agent 大纲/05-企业级编排与部署/生产部署最佳实践",
     "Agent 大纲/05-企业级编排与部署/多 Agent 编排模式",
-    "Agent 大纲/04-规划与自我完善/反思與学习机制",
     "Create Init Code/assets/初始化 obsidian/file-20251206220809580.png"
   ]
 }
