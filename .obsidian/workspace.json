@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI 大模型/大模型的演变.md",
+                "file": "AI 大模型/Agent 定义.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "大模型的演变"
+              "title": "Agent 定义"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI 大模型/大模型的演变.md",
+                "file": "AI 大模型/Agent 定义.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "大模型的演变 的反向链接列表"
+              "title": "Agent 定义 的反向链接列表"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI 大模型/大模型的演变.md",
+                "file": "AI 大模型/Agent 定义.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "大模型的演变 的出链列表"
+              "title": "Agent 定义 的出链列表"
             }
           },
           {
@@ -197,8 +197,9 @@
   },
   "active": "1b4ca4e586f594be",
   "lastOpenFiles": [
-    "2025-12-10.md",
     "AI 大模型/大模型的演变.md",
+    "AI 大模型/Agent 定义.md",
+    "2025-12-10.md",
     "未命名.md",
     "Create Init Code/CheckBox.md",
     "AI 大模型",
@@ -226,7 +227,6 @@
     "Agent 大纲/06-学习资源与实战项目/实战项目建议/竞赛与挑战活动.md",
     "Agent 大纲/06-学习资源与实战项目/实战项目建议/技术博客与专栏推荐.md",
     "Agent 大纲/06-学习资源与实战项目/实战项目建议/项目实战案例分享.md",
-    "Agent 大纲/06-学习资源与实战项目/实战项目建议/持续学习路径建议.md",
     "Agent 大纲/03-ReAct与RAG/RAG 技术",
     "Agent 大纲/06-学习资源与实战项目/实战项目建议",
     "Agent 大纲/06-学习资源与实战项目/官方指南與课程",
