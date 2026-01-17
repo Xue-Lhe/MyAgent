@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI 大模型/Agent 定义.md",
+                "file": "资料/面向开发者的提示词工程.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Agent 定义"
+              "title": "面向开发者的提示词工程"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "161dbae26ea23d1e",
@@ -198,9 +197,22 @@
   },
   "active": "1b4ca4e586f594be",
   "lastOpenFiles": [
+    "AI 大模型/Agent 定义.md",
+    "资料/面向开发者的提示词工程.md",
+    "资料/images/fa00aafadba3bd1ce4478c3f047c808e8d4657a194fa9c751e4c0bfdea5d1390.jpg",
+    "资料/images/f8ad5f31310930990fb8792079b01fc34310ba94d60c2c60d660c69af0d77537.jpg",
+    "资料/images/f68d423bca071219e313e0ebf97cd925fd071245cb1981624c74d3a87e7a1502.jpg",
+    "资料/images/f15e3577de111bb70e939efe205d569ab35c8ea09ae60e8b8b3428e30f0b9585.jpg",
+    "资料/images/ebf0fa9f57d01b3f978013c49d6f8e56de2ccbb8619fba7cb332d86371e0123b.jpg",
+    "资料/images/eb1d1fc663e32b1c39254785ed1b63e2784041f17c422d3fd04fe579a660371d.jpg",
+    "资料/images/e60ded8e971d0dc84b966e0f3c04befcb9d0ad522dc34eb4c3ea48baaa5677dc.jpg",
+    "资料/images/d7d251445557818f703d142ae4d99c611c601c986e743845a2440d4aafa59a0a.jpg",
+    "资料/images/d39653aefa34245436c1a72742540c3a1ee7533fbd5fdda9e6080d584e0f6274.jpg",
+    "资料/images/cf7012f4d644c992b700cd726142d3ab46b02b8549cf9a969a4b172a64a1cc4b.jpg",
+    "资料/images",
+    "资料",
     "AI 大模型/大模型的演变.md",
     "Create Init Code/CheckBox.md",
-    "AI 大模型/Agent 定义.md",
     "Create Init Code/Markdown 语法.md",
     "2025-12-10.md",
     "未命名.md",
@@ -227,14 +239,10 @@
     "Agent 大纲/Agent 工程.md",
     "Agent 大纲/06-学习资源与实战项目/实战项目建议/竞赛与挑战活动.md",
     "Agent 大纲/06-学习资源与实战项目/实战项目建议/技术博客与专栏推荐.md",
-    "Agent 大纲/06-学习资源与实战项目/实战项目建议/项目实战案例分享.md",
     "Agent 大纲/03-ReAct与RAG/RAG 技术",
     "Agent 大纲/06-学习资源与实战项目/实战项目建议",
     "Agent 大纲/06-学习资源与实战项目/官方指南與课程",
     "Agent 大纲/06-学习资源与实战项目/重要论文与文献",
-    "Agent 大纲/05-企业级编排与部署/领域应用案例",
-    "Agent 大纲/05-企业级编排与部署/生产部署最佳实践",
-    "Agent 大纲/05-企业级编排与部署/多 Agent 编排模式",
-    "Create Init Code/assets/初始化 obsidian/file-20251206220809580.png"
+    "Agent 大纲/05-企业级编排与部署/领域应用案例"
   ]
 }
